@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DailyNews/static/css/main.3fdf605a.css",
+    "main.js": "/DailyNews/static/js/main.13c43b1d.js",
+    "index.html": "/DailyNews/index.html",
+    "main.3fdf605a.css.map": "/DailyNews/static/css/main.3fdf605a.css.map",
+    "main.13c43b1d.js.map": "/DailyNews/static/js/main.13c43b1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fdf605a.css",
+    "static/js/main.13c43b1d.js"
+  ]
+}
