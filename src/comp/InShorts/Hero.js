@@ -57,14 +57,6 @@ export default function Hero(props) {
                     </div>
                 </div>
             </section>
-            {/* <select className="text-red-500">
-            <option disabled selected >select Country</option>
-                {
-                    g20.map((ele, index)=>(
-                        <option key={index}>{ele.name}</option>
-                    ))
-                }
-            </select> */}
         </div>
     )
 }
